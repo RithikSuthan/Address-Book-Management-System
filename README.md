@@ -1,7 +1,3 @@
-Certainly! Here's a neatly organized version of the content for your README file:
-
----
-
 # Address Book
 
 ## Overview
@@ -31,7 +27,3 @@ Please feel free to contribute by forking the repository and submitting a pull r
 
 ## Contact
 For any inquiries or suggestions, you can reach out to me at [rithiksuthan123@gmail.com](mailto:rithiksuthan123@gmail.com).
-
----
-
-Feel free to adjust any parts to better suit your project's needs!
